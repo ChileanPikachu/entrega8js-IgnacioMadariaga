@@ -1,0 +1,112 @@
+[
+    {
+      "id": "1",
+      "nombre": "Erling Haaland",
+      "edad": "22",
+      "estatura": "1,94",
+      "nacionalidad": "noruego",
+      "equipo": "Manchester City",
+      "posicion": "Delantero Centro",
+      "dorsal": "9",
+      "cantidad": 15
+    },
+    {
+      "id": "2",
+      "nombre": "Aleksandar Mitrovic",
+      "edad": "27",
+      "estatura": "1,89",
+      "nacionalidad": "serbio",
+      "equipo": "Fulham",
+      "posicion": "Delantero Centro",
+      "dorsal": "9",
+      "cantidad": 6
+    },
+    {
+      "id": "3",
+      "nombre": "Harry Kane",
+      "edad": "29",
+      "estatura": "1,88",
+      "nacionalidad": "inglés",
+      "equipo": "Tottenham",
+      "posicion": "Delantero Centro",
+      "dorsal": "10",
+      "cantidad": 8
+    },
+    {
+      "id": "4",
+      "nombre": "Ivan Toney",
+      "edad": "26",
+      "estatura": "1,79",
+      "nacionalidad": "inglés",
+      "equipo": "Brentford",
+      "posicion": "Delantero Centro",
+      "dorsal": "17",
+      "cantidad": 6
+    },
+    {
+      "id": "5",
+      "nombre": "Wilfried Zaha",
+      "edad": "29",
+      "estatura": "1,80",
+      "nacionalidad": "marfileño",
+      "equipo": "Crystal Palace",
+      "posicion": "Extremo izquierdo",
+      "dorsal": "11",
+      "cantidad": 4
+    },
+    {
+      "id": "6",
+      "nombre": "Philip Foden",
+      "edad": "22",
+      "estatura": "1,69",
+      "nacionalidad": "inglés",
+      "equipo": "Manchester City",
+      "posicion": "Mediocampista of",
+      "dorsal": "47",
+      "cantidad": 6
+    },
+    {
+      "id": "7",
+      "nombre": "Gabriel Jesús",
+      "edad": "25",
+      "estatura": "1,75",
+      "nacionalidad": "brasileño",
+      "equipo": "Arsenal",
+      "posicion": "Delantero centro",
+      "dorsal": "9",
+      "cantidad": 5
+    },
+    {
+      "id": "8",
+      "nombre": "Leandro Trossard",
+      "edad": "27",
+      "estatura": "1,72",
+      "nacionalidad": "belga",
+      "equipo": "Brighton",
+      "posicion": "Delantero izquierdo",
+      "dorsal": "11",
+      "cantidad": 5
+    },
+    {
+      "id": "9",
+      "nombre": "James Maddison",
+      "edad": "25",
+      "estatura": "1,79",
+      "nacionalidad": "inglés",
+      "equipo": "Leicester",
+      "posicion": "Mediocampista of",
+      "dorsal": "10",
+      "cantidad": 5
+    },
+    {
+      "id": "10",
+      "nombre": "Roberto Firmino",
+      "edad": "31",
+      "estatura": "1,81",
+      "nacionalidad": "brasileño",
+      "equipo": "Liverpool",
+      "posicion": "Delantero centro",
+      "dorsal": "9",
+      "cantidad": 6
+    }
+  ]
